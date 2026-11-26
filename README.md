@@ -1,4 +1,4 @@
-# SOLID #5 — Dependency Inversion Principle (DIP)
+# 📐 Estudo-SOLID-Principio-Inversao-Dependencia-Java (DIP)
 
 Exemplo em Java 17 que compara o mesmo caso de uso de finalização de pedido em
 duas arquiteturas:
